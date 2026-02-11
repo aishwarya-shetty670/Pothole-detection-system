@@ -63,4 +63,3 @@ http://localhost:8501
 • GPS tagging of detected potholes  
 • Deployment on edge devices like Raspberry Pi  
 
---
